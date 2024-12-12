@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is sp90031 and I'm a coder, from india.</p>
+<p align="left">My name is sp90031 and I'm a coder, from east pakistan.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1999<br>📚 I'm currently learning Raspberry Pi.<br>🎯 Goals: 💸</p>
+<p align="left">✨ Creating bugs since 1999<br>📚 I'm currently working as QA Engineer.<br>🎯 Goals: 🤙🏾📲</p>
 
 ###
 
